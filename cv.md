@@ -26,3 +26,4 @@
 
 ### ___8-English:___
 I develop my English experience by listening to songs in English, reading subtitles in TV shows and movies, as well as articles. When registering on the EPAM platform, he passed an introductory test on which he received the A2 status. My main problem is a small vocabulary and lack of knowledge of the rules of time in the language.
+
