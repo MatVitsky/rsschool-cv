@@ -1,0 +1,38 @@
+body {
+  
+  background: #141E30;
+  
+  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 20px;
+  max-width: 1024px;
+
+
+  padding: 2px;
+  border: white 2px solid ; 
+
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+h4{
+  color: white;
+}
+
+tr{
+  color: white;
+}
+
+img{
+  border:white 1px solid;
+  border-radius: 20px;
+}
